@@ -1,0 +1,23 @@
+<svg height="318" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="318" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">88 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">├── underscore@1.7.0</tspan>
+<tspan x="10" y="90">├── q@1.0.1</tspan>
+<tspan x="10" y="106">├── nopt@3.0.1 (abbrev@1.1.0)</tspan>
+<tspan x="10" y="122">├── update-notifier@0.5.0 (is-npm@1.0.0, semver-diff@2.1.0, string-length@1.0.1, chalk@1.1.3, re\</tspan>
+<tspan x="10" y="138">peating@1.1.3, configstore@1.4.0, latest-version@1.0.1)</tspan>
+<tspan x="10" y="154">├── insight@0.8.4 (object-assign@4.1.1, async@1.5.2, uuid@3.0.1, lodash.debounce@3.1.1, tough-co\</tspan>
+<tspan x="10" y="170">okie@2.3.2, chalk@1.1.3, os-name@1.0.3, configstore@1.4.0, request@2.81.0, inquirer@0.10.1)</tspan>
+<tspan x="10" y="186">├── cordova-common@2.0.0 (cordova-registry-mapper@1.1.15, unorm@1.4.1, underscore@1.8.3, q@1.5.0\</tspan>
+<tspan x="10" y="202">, semver@5.3.0, ansi@0.3.1, osenv@0.1.4, bplist-parser@0.1.1, glob@5.0.15, minimatch@3.0.3, elem\</tspan>
+<tspan x="10" y="218">enttree@0.1.7, shelljs@0.5.3, plist@1.2.0)</tspan>
+<tspan x="10" y="234">└── cordova-lib@6.5.0 (valid-identifier@0.0.1, opener@1.4.1, cordova-registry-mapper@1.1.15, uno\</tspan>
+<tspan x="10" y="250">rm@1.3.3, properties-parser@0.2.3, nopt@3.0.6, semver@4.3.6, dep-graph@1.1.0, shelljs@0.3.0, glo\</tspan>
+<tspan x="10" y="266">b@5.0.15, request@2.47.0, elementtree@0.1.6, cordova-serve@1.0.1, xcode@0.9.3, aliasify@1.9.0, i\</tspan>
+<tspan x="10" y="282">nit-package-json@1.9.5, tar@1.0.2, cordova-fetch@1.0.2, cordova-create@1.0.2, plist@1.2.0, cordo\</tspan>
+<tspan x="10" y="298">va-js@4.2.1, npm@2.15.12)</tspan>
+</text>
+</svg>

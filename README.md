@@ -1,6 +1,6 @@
 # npmtest-cordova
 
-#### test coverage for  cordova (v6.5.0)  [![npm package](https://img.shields.io/npm/v/npmtest-cordova.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cordova) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cordova.svg)](https://travis-ci.org/npmtest/node-npmtest-cordova)
+#### basic test coverage for  cordova (v6.5.0)  [![npm package](https://img.shields.io/npm/v/npmtest-cordova.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cordova) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cordova.svg)](https://travis-ci.org/npmtest/node-npmtest-cordova)
 
 #### Cordova command line interface tool
 
